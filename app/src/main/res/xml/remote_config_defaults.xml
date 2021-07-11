@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+	<entry>
+		<key>is_promotion_on</key>
+		<value>false</value>
+	</entry>
+
+	<entry>
+		<key>nike_price</key>
+		<value>100</value>
+	</entry>
+	<entry>
+		<key>rebook_price</key>
+		<value>200</value>
+	</entry>
+
+	<entry>
+		<key>discount</key>
+		<value>0</value>
+	</entry>
+
+	<entry>
+		<key>tmn_picture</key>
+		<value>https://digitalnex.bypronto.com/wp-content/uploads/sites/240/2017/06/S__18612429.jpg</value>
+	</entry>
+
+	<entry>
+		<key>tmn_url</key>
+		<value>http://www.truemoney.com/</value>
+	</entry>
+
+</defaultsMap>

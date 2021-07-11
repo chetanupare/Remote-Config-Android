@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">RemoteConfig</string>
+	<string name="fetch">Get Price</string>
+	<string name="loading">Updating your price…</string>
+	<string name="price_prefix">Your price is %s</string>
+	<string name="succeeded">Succeeded</string>
+	<string name="failed">Failed</string>
+</resources>
